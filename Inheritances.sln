@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance1", "Inheritance1\Inheritance1.csproj", "{2096E678-3CD0-47BB-A9CA-DA11569BFCE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreas", "ShapeAreas\ShapeAreas.csproj", "{E5CBEAFE-8C7B-4227-8C0B-452AE8ACE43F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2096E678-3CD0-47BB-A9CA-DA11569BFCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2096E678-3CD0-47BB-A9CA-DA11569BFCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2096E678-3CD0-47BB-A9CA-DA11569BFCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CBEAFE-8C7B-4227-8C0B-452AE8ACE43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CBEAFE-8C7B-4227-8C0B-452AE8ACE43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CBEAFE-8C7B-4227-8C0B-452AE8ACE43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CBEAFE-8C7B-4227-8C0B-452AE8ACE43F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

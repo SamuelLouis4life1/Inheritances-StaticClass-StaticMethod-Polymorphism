@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using Inheritance1.Entities;
 using System.Globalization;
 
+
+/// <summary>
+/// A company has its own and outsourced employees. For each employee, you want to record name, hours worked, and hourly value. Outsourced employees still have an additional expense.
+/// The employee payment corresponds to the hourly rate multiplied by hours worked, and outsourced employees still receive a bonus corresponding to 110% of their additional expenditure.
+/// It is a program to read the data of N employees (N provided by the user) and store them in a list. After reading all data, show name and payment of each employee in the order in which they were typed.
+/// </summary>
+
 namespace Inheritance1
 {
     class Program
